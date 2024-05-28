@@ -25,7 +25,6 @@ st.set_page_config(page_title= "Airbnb Data Visualization",
 st.backgroundColor = '6739B7'
 
 st.header(':violet[AIRBNB DATA ANALYSIS]',anchor=False)
-#st.write('**(Note)**:-**Extracting business card Data with OCR**')
 st.balloons()
 
 def datafr():
